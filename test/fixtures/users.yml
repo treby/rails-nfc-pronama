@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  card_id: 1
+  name: MyString
+  blood: 
+  birth: 2013-11-02
+  sex: 
+  opt_type: 
+
+two:
+  card_id: 1
+  name: MyString
+  blood: 
+  birth: 2013-11-02
+  sex: 
+  opt_type: 
